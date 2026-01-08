@@ -5,8 +5,7 @@
 This repository contains data associated with the manuscript:
 
 _How the small host the small: Cryptogam trait-mediated structuring of Antarctic microarthropod communities_  
-by Ingeborg J. Klarenberg, Rong Liu, Peter Convey, J. Hans. C. Cornelissen, and Stef Bokhorst.  
-Manuscript in review (Authorea preprint: [link](https://www.authorea.com/users/922035/articles/1294003-how-the-small-host-the-small-cryptogam-trait-mediated-structuring-of-antarctic-microarthropod-communities))
+by Ingeborg J. Klarenberg, Rong Liu, Peter Convey, J. Hans. C. Cornelissen, and Stef Bokhorst.  Manuscript published in Ecography ( [link](https://doi.org/10.1002/ecog.08175))
 
 This study investigates how cryptogam traits influence the community structure and abundance of Antarctic microarthropods, providing insights into trait-mediated ecological interactions in extreme environments.
 
