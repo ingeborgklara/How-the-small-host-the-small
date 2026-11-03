@@ -26,6 +26,6 @@ To use the data:
 
 ## Citation
 
-If you use this dataset, please cite the manuscript (update with final citation upon acceptance):
+If you use this dataset, please cite the manuscript:
 
-Klarenberg, I.J., Liu, R., Convey, P., Cornelissen, J.H.C., & Bokhorst, S. (in review). How the small host the small: Cryptogam trait-mediated structuring of Antarctic microarthropod communities. Authorea. [Preprint link](https://www.authorea.com/users/922035/articles/1294003-how-the-small-host-the-small-cryptogam-trait-mediated-structuring-of-antarctic-microarthropod-communities)
+Klarenberg, I.J., Liu, R., Convey, P., Cornelissen, J.H.C., & Bokhorst, S. (2026). How the small host the small: Cryptogam trait-mediated structuring of Antarctic microarthropod communities. Ecography, 2026: e08175. [link]([https://www.authorea.com/users/922035/articles/1294003-how-the-small-host-the-small-cryptogam-trait-mediated-structuring-of-antarctic-microarthropod-communities](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08175))
